@@ -30,7 +30,7 @@ Highlighting my work in modern UI development and AI integration.
 
 ### 📈 Achievements & Competitive Programming
 
-* Achieved a **5-star rating in Python** and a 5-star rating in C++ on **Hackerrank**.
+* Achieved a **5-star rating in Python**, **3-star rating in React** and a 5-star rating in C++ on **Hackerrank**.
 * Solved around **350 coding challenges** on platforms like GeeksforGeeks and LeetCode.
 
 ---
