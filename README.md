@@ -37,6 +37,6 @@ Highlighting my work in modern UI development and AI integration.
 
 ### 📬 Let's Connect!
 
-* **Personal Portfolio:** [Porfolio](https://op-portfolio-git-main-omkar-patels-projects-313c7af5.vercel.app?_vercel_share=Xiq4JE6LRaa7Ey4t5UZdHixuajFr9VtM)
+* **Personal Portfolio:** [Porfolio](https://op-portfolio-nu.vercel.app)
 * **LinkedIn:** [linkedin.com/in/omkarhpatel](https://linkedin.com/in/omkarhpatel)
 * **Email:** omkarpatel61319@gmail.com
